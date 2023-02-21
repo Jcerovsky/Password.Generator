@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+#main-div {
+    background-color: #1F2937;
+    border: solid;
+    border-color: goldenrod;
+    width: 550px;
+    height: 550px;
+    padding: 20%;
+
+}
+
+h1 {
+    line-height: 7px;
+}
+#green-h1 {
+    color: #4ADF86;
+    
+}
+
+#generate-password-btn {
+    
+    color: white;
+    width: 159px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    background-color: #4ADF86;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-bottom: 25px;
+    border: 10px;
+    border-color: white;
+}
+
+.password-field-1{
+    background-color: #273549;
+    width: 211px;
+    height: 39px;
+    float: left;
+}
+
+.password-field-2 {
+    background-color: #273549;
+    width: 211px;
+    height: 39px;
+    float: left;
+    margin-left: 23%;
+}
+
+#line-id {
+    margin-top: 7%;
+    border: 1px solid seagreen;
+}
+
+.pass-class {
+    text-align: center;
+    padding: 10px;
+}
+
+
+span {
+    font-size: 1rem;
+}
